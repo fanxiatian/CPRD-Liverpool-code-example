@@ -1,0 +1,8 @@
+*.txt
+*.csv
+*.xlsx
+*.rds
+*.RData
+Observation_*
+extracta1_*
+dementia_snomed_group_prevalence_*/
